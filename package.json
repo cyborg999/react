@@ -1,0 +1,17 @@
+{
+  "name": "router-app",
+  "version": "1.0.0",
+  "description": "some description",
+  "main": "main.js",
+  "dependencies": {
+    "react-router": "^2.8.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
